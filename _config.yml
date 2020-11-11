@@ -12,7 +12,7 @@ github_repo: "https://github.com/ldmax/ldmax.github.io.git" # you code repositor
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Drifting in a river, roaming and endeavoring"
-sidebar-avatar: /img/dan.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/dan.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 

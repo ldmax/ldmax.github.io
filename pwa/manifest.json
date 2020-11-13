@@ -3,11 +3,11 @@
   "short_name": "Dan's Blog",
   "description": "Drifting in a river, roaming and endeavoring",
   "icons": [{
-    "src": "icons/pwa_icon_128.png",
+    "src": "icons/ld_icon.png",
     "sizes": "128x128",
     "type": "image/png"
   }, {
-    "src": "icons/pwa_icon_512.png",
+    "src": "icons/ld_icon.png",
     "sizes": "512x512",
     "type": "image/png"
   }],

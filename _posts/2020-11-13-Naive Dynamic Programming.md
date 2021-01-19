@@ -12,7 +12,7 @@ num_coins = min(1+num_coins(original_change-1), 1+num_coins(original_change-5), 
 ```
 ## 2. 问题的递归解决
 从公式可以看到问题的递归特性，脑海中也可以想象出大致的时间复杂度。如下图所示：
-![call tree](https://github.com/ldmax/ldmax.github.io/blob/master/_posts/assets/callTree.png)
+![call tree](assets/callTree.png)
 
 树的每个节点理论上会有1~4个子节点，最大层数为n1 = original_change / min(coin_list), 最小层数n2 = original_change / max(coin_list)。original_change是找零金额，coin_list是可用的硬币金额列表。
 
